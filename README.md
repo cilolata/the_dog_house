@@ -1,2 +1,1 @@
-# the_dog_house
-Site contruído utilizando recursos aprendidos de HTML e CSS
+Site contruído utilizando recursos aprendidos em HTML e CSS
